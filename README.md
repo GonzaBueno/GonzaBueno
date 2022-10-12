@@ -2,7 +2,7 @@
   <img src="https://github.com/adiazcjc/adiazcjc/blob/main/Hello.gif?raw=true" width="850" height="400">
 
 ---
-# Hola, soy Gonzalo
+# Hola, soy Gonzalo 👋
 
 ## Full Stack Developer orientado hacia el Back-End 
 
