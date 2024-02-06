@@ -2,13 +2,11 @@
   <img src="https://github.com/adiazcjc/adiazcjc/blob/main/Hello.gif?raw=true" width="850" height="400">
 
 ---
-# Hola, soy Gonzalo 👋
+# Hi, Im Gonza 👋
 
-## Full Stack Developer orientado hacia el Back-End 
 
-* ¿Quién soy? **Soy una persona responsable, organizada y con persistencia y actitud para crecer día a día tanto profesionalmente como personalmente.**
-* **Amante de las matemáticas, música, teatro y estructuras de datos.**
-* **Contacto:** [gonzaloferragut1@gmail.com]()
+* ¿who i am? **Hi, I'm Ferragut Gonzalo. A passionate programmer specialized in backend although I work fullstack. I live in Buenos Aires, Argentina..**
+* **Contact:** [gonzaloferragut1@gmail.com]()
 * **LinkedIn:** [https://www.linkedin.com/in/gonzalo-ferragut-b50b3472]()
 
 ---
@@ -24,6 +22,7 @@
 - **_Redux_**
 - **_HTML_**
 - **_CSS_**
+- **_SCSS_**
 
 ---
 
